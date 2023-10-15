@@ -1,0 +1,6 @@
+.antlr/
+.vs/
+bin/
+obj/
+TodoAppCli.csproj.user
+Properties/
